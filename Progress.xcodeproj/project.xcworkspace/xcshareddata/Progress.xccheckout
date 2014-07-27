@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B14C064D-473F-42E7-A3C6-400591AAEA6F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Progress</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E9D29F86-ADE7-4C78-9C80-E097DF1A34BD</key>
+		<string>https://github.com/sakaishuhei/iOSProgressView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Progress.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E9D29F86-ADE7-4C78-9C80-E097DF1A34BD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sakaishuhei/iOSProgressView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E9D29F86-ADE7-4C78-9C80-E097DF1A34BD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E9D29F86-ADE7-4C78-9C80-E097DF1A34BD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOSProgressView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
